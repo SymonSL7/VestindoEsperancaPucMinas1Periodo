@@ -7,9 +7,10 @@
 ###
 
 <h1>Descrição de Projeto:</h1>
-<p>
 
-Sobre o Projeto Vestindo Esperança
+<h2> Sobre o Projeto Vestindo Esperança </h2>
+
+<p>
 
 Este projeto foi desenvolvido para a disciplina de Aplicação Web Front-End, no 1º período do curso de Análise e Desenvolvimento de Sistemas da PUC Minas.
 
