@@ -7,7 +7,33 @@
 ###
 
 <h1>Descrição de Projeto:</h1>
-<p> </p>
+<p>
+
+Sobre o Projeto Vestindo Esperança
+
+Este projeto foi desenvolvido para a disciplina de Aplicação Web Front-End, no 1º período do curso de Análise e Desenvolvimento de Sistemas da PUC Minas.
+
+O projeto, intitulado Vestindo Esperança, tem como objetivo auxiliar pessoas e instituições no processo de doação de vestuário em geral.
+
+A aplicação foi desenvolvida utilizando HTML, CSS e JavaScript, e conta com as seguintes funcionalidades:
+
+Criação de conta, com duas opções:
+
+Conta Ponto de Coleta: destinada a locais que desejam se cadastrar como pontos de coleta de doações.
+
+Conta Doador: voltada para usuários que desejam visualizar os pontos de coleta disponíveis e contribuir com doações.
+
+Edição de cadastro, exclusão de conta e logout.
+
+Visualização de detalhes dos pontos de coleta, incluindo informações de contato e a localização no mapa.
+
+Integração com a API ViaCEP, que permite a busca automática de endereços a partir do CEP digitado.
+
+Além de facilitar o processo de doação, a aplicação tem o propósito de divulgar os pontos de coleta de forma acessível. Sabemos que muitas pessoas em situação de vulnerabilidade não têm acesso à internet. No entanto, a disseminação das informações por meio do boca a boca — entre quem conhece o projeto e os locais cadastrados — pode fazer com que essas doações cheguem até quem realmente precisa.
+
+Durante o desenvolvimento do projeto, enfrentamos diversos desafios — desde dificuldades técnicas até questões logísticas. Nosso grupo era composto por integrantes de diferentes regiões, incluindo pessoas que residiam em outros países. Nunca nos encontramos pessoalmente, e todo o trabalho foi realizado de forma remota, por meio de reuniões em grupo e dos encontros semanais com o professor Clóvis. Para organizar as tarefas e acompanhar o progresso, utilizamos uma abordagem baseada em metodologias ágeis de gestão de projetos.
+
+</p>
 
 ###
 
