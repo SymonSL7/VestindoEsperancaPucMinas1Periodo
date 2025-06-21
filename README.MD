@@ -40,6 +40,10 @@ Agradeço aos colegas de equipe Lucas, Luiz e Marcelo pela colaboração e dedic
 
 <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-2-e1-proj-web-t10-g4-turma-10/codigo-fonte/index.html" target="_blank" rel="noopener noreferrer">👉 Clique aqui para poder ver o projeto em funcionamento</a>
 
+<a href="https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo/blob/main/READMEPUC.md" target="_blank" rel="noopener noreferrer">👉 Link para a documentação do projeto</a>
+
+
+
 
 ###
 
