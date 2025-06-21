@@ -34,7 +34,7 @@ Além de facilitar o processo de doação, a aplicação tem o propósito de div
 
 Durante o desenvolvimento do projeto, enfrentamos diversos desafios — desde dificuldades técnicas até questões logísticas. Nosso grupo era composto por integrantes de diferentes regiões, incluindo pessoas que residiam em outros países. Nunca nos encontramos pessoalmente, e todo o trabalho foi realizado de forma remota, por meio de reuniões em grupo e dos encontros semanais com o professor Clóvis. Para organizar as tarefas e acompanhar o progresso, utilizamos uma abordagem baseada em metodologias ágeis de gestão de projetos.
 
-Agradeço aos colegas de equipe Lucas, Luiz e Marcelo pela colaboração e dedicação ao longo do desenvolvimento. Um agradecimento especial ao professor Clóvis, pelo apoio e orientação constantes durante todo o processo.
+Agradeço aos colegas de equipe Lucas, Luiz e Marcela pela colaboração e dedicação ao longo do desenvolvimento. Um agradecimento especial ao professor Clóvis, pelo apoio e orientação constantes durante todo o processo.
 
 </p>
 
