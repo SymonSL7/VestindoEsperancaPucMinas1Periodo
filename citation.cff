@@ -1,0 +1,29 @@
+message: Please cite this software using these metadata.
+title: Vestindo Esperança
+authors:
+  - family-names: Marcela Pinheiro Maia
+    given-names: Claudia
+  - family-names: Reis Esteves
+    given-names: Lucas
+  - family-names: Gustavo Alcântara Seabra
+    given-names: Luiz
+  - family-names: Silva Lima
+    given-names: Symon
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Lemos Tavares
+    given-names: Clóvis
+keywords:
+  - Doação
+  - Solidariedade
+  - Cidadania
+  - Roupas
+  - Camisas
+  - Blusas
+  - Calças
+  - Bermudas
+  - Shorts
+  - Esperança
+repository-code: 
+version: 1.0.0
+date-released: 2025-06-20

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cadastro de Usuário</title>
+  <link rel="icon" type="image/png" href="../imgs/IconeCamisa3.png" sizes="32x32">
+  <link rel="stylesheet" href="Tela_cadastro_usuario.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="../index.html">HOME</a>
+      <a href="../login/login.html">LOGIN</a>
+      <a href="Tela_cadastro_usuario.html">CADASTRAR</a>
+    </nav>
+  </header>
+
+  <main>
+    <form id="formCadastro">
+      <h1>Cadastro de Usuário</h1>
+
+      <label for="nome">Nome:</label>
+      <input type="text" id="nome" required />
+
+      <label for="email">E-mail:</label>
+      <input type="email" id="email" required />
+
+      <label for="senha">Senha:</label>
+      <input type="password" id="senha" required />
+
+      <label for="confirmaSenha">Confirmar Senha:</label>
+      <input type="password" id="confirmaSenha" required />
+
+      <label for="cep">CEP:</label>
+      <input type="text" id="cep" maxlength="9" placeholder="00000-000" required />
+      <button type="button" onclick="buscarEndereco()">Buscar Endereço</button>
+
+      <label for="logradouro">Rua/Avenida:</label>
+      <input type="text" id="logradouro" disabled />
+
+      <label for="bairro">Bairro:</label>
+      <input type="text" id="bairro" disabled />
+
+      <label for="cidade">Cidade:</label>
+      <input type="text" id="cidade" disabled />
+
+      <label for="uf">UF:</label>
+      <input type="text" id="uf" disabled />
+
+      <label for="numero">Número:</label>
+      <input type="text" id="numero" required />
+
+      <label for="tipoUsuario">Tipo de Usuário:</label>
+      <select id="tipoUsuario" required>
+        <option value="">Selecione...</option>
+        <option value="doador">Doador</option>
+        <option value="pontoColeta">Ponto de Coleta</option>
+      </select>
+
+      <button type="submit">Cadastrar</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>Vestindo Esperança 2025 | Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="Tela_cadastro_usuario.js"></script>
+</body>
+</html>
