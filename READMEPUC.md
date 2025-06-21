@@ -1,3 +1,5 @@
+Obs.: As imagens e vídeos presentes na documentação não estarão disponíveis nesta versão, pois o projeto original foi desenvolvido em um repositório privado da PUC Minas. Esta é apenas uma cópia do repositório original, com recursos visuais limitados.
+
 # Vestindo Esperança
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
