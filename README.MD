@@ -34,7 +34,12 @@ Além de facilitar o processo de doação, a aplicação tem o propósito de div
 
 Durante o desenvolvimento do projeto, enfrentamos diversos desafios — desde dificuldades técnicas até questões logísticas. Nosso grupo era composto por integrantes de diferentes regiões, incluindo pessoas que residiam em outros países. Nunca nos encontramos pessoalmente, e todo o trabalho foi realizado de forma remota, por meio de reuniões em grupo e dos encontros semanais com o professor Clóvis. Para organizar as tarefas e acompanhar o progresso, utilizamos uma abordagem baseada em metodologias ágeis de gestão de projetos.
 
+Agradeço aos colegas de equipe Lucas, Luiz e Marcelo pela colaboração e dedicação ao longo do desenvolvimento. Um agradecimento especial ao professor Clóvis, pelo apoio e orientação constantes durante todo o processo.
+
 </p>
+
+<a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-2-e1-proj-web-t10-g4-turma-10/codigo-fonte/index.html" target="_blank">👉 Clique aqui para poder ver o projeto em funcionamento</a>
+
 
 ###
 
